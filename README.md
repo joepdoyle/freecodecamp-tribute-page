@@ -1,6 +1,6 @@
 # freeCodeCamp - Tribute Page
 
-This is my solution to the [Technical Documentation Page Project on freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page).
+This is my solution to the [Technical Documentation Page Project on freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page).
 
 ## Table of contents
 
@@ -17,12 +17,12 @@ This is my solution to the [Technical Documentation Page Project on freeCodeCamp
 
 Users should be able to:
 
-- See the list of requirements for this project [here](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
+- See the list of requirements for this project [here](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 
 ### Links
 
 - CodePen Solution URL: [Add solution URL here](https://codepen.io/joepdoyle/pen/abwvdWq)
-- Live Site URL: [Add live site URL here](https://joepdoyle.github.io/freecodecamp-technical-documentation-page/)
+- Live Site URL: [Add live site URL here](https://joepdoyle.github.io/freecodecamp-tribute-page/)
 
 ## My process
 
