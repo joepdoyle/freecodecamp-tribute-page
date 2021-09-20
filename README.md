@@ -1,6 +1,6 @@
 # freeCodeCamp - Tribute Page
 
-This is my solution to the [Technical Documentation Page Project on freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page).
+This is my solution to the [Tribute Page Project on freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page).
 
 ## Table of contents
 
